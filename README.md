@@ -1,1 +1,2 @@
 # bankmanagementatm
+this project help the people who belongs the rular areas peoples faces lot of problem for receiing the bank services this project help the people who belongs rular areas people through the atm machine withdraw the cash and open the new bank account and deposite the money through the atm so people don't faces any type of issues regarding the crowd and people complete his work on time and save the lot of effort and time as well money 
